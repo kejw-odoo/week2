@@ -11,5 +11,8 @@
     'author': 'kejw-odoo',
     'website': 'https://github.com/kejw-odoo',
     'category': 'Kawiil',
+    "demo": [
+        "demo/motorcycle_registry_demo.xml",
+    ],
     'application': True
 }
