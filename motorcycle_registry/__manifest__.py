@@ -11,6 +11,10 @@
     'author': 'kejw-odoo',
     'website': 'https://github.com/kejw-odoo',
     'category': 'Kawiil',
+    "data": [
+        "security/motorcycle_registry_groups.xml",
+        "security/ir.model.access.csv",
+    ],
     "demo": [
         "demo/motorcycle_registry_demo.xml",
     ],
